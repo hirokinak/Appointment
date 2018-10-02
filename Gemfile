@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+ 
+gem 'devise'
+source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
 ruby '2.5.0'
